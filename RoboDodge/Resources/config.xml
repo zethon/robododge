@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<GameConfig>
+  <!-- the size of the playing screen -->
+  <Height>768</Height>
+  <Width>1200</Width>
+  
+  <!-- full screen mode or not? -->
+  <FullScreen>0</FullScreen>
+
+  <!-- mutes all sound effects (ie. shooting, getting hit, etc -->
+  <Mute>0</Mute>
+  
+  <!-- mutes the background music only -->
+  <BGMute>0</BGMute>
+
+  <!-- level on which the game starts -->
+  <StartLevel>1</StartLevel>
+
+  <!-- starting health for the player on each level -->
+  <PlayerHealth>10</PlayerHealth>
+ 
+  <!-- allows free range of the player on any map -->
+  <FreeCamera>0</FreeCamera>
+
+  <!-- if true, NPCs will attack you when you get close to them -->
+  <NPCAggro>1</NPCAggro>
+
+  <!-- show the debug info on the playing screen or not -->
+  <ShowDebugInfo>0</ShowDebugInfo>
+  
+</GameConfig>
