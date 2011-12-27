@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoboDodge", "RoboDodge\RoboDodge.csproj", "{A5BE0052-40AB-46DB-A2B3-88DFA0C0089E}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5BE0052-40AB-46DB-A2B3-88DFA0C0089E}.Debug|x86.ActiveCfg = Debug|x86
+		{A5BE0052-40AB-46DB-A2B3-88DFA0C0089E}.Debug|x86.Build.0 = Debug|x86
+		{A5BE0052-40AB-46DB-A2B3-88DFA0C0089E}.Release|x86.ActiveCfg = Release|x86
+		{A5BE0052-40AB-46DB-A2B3-88DFA0C0089E}.Release|x86.Build.0 = Release|x86
+		{13F35C84-15C9-4684-9313-7A95B51F41CF}.Debug|x86.ActiveCfg = Debug|x86
+		{13F35C84-15C9-4684-9313-7A95B51F41CF}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
