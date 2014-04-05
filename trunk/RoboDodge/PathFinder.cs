@@ -1,5 +1,4 @@
-﻿// Adalid Claure
-// CS325 - Fall 2010
+ // Adalid Claure
 // RoboDodge
 
 using System;
