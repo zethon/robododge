@@ -1,4 +1,4 @@
-# robododge
+# RoboDodge
 
 ## Introduction
 
